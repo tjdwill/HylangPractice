@@ -122,7 +122,7 @@ f. False
 
 ; 20. Consider a (6,7,8) shape array, what is the index (x,y,z) of the 100th element?
 
-(print f"\nProblem 20: I did this using math, but Rougier used a Numpy function. Should have checked the indexing routines, smh.\n
+(print f"\nProblem 20: I did this using math, but Rougier used a Numpy function. I should have checked the indexing routines, smh.\n
     {(np.unravel_index :indices 99 :shape #(6 7 8))}
 ")
 
